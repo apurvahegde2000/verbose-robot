@@ -11,6 +11,7 @@ Example 2:
 Input: S = "ab##", T = "c#d#"
 Output: true
 Explanation: Both S and T become "".
+
 Example 3:
 
 Input: S = "a##c", T = "#a#c"
